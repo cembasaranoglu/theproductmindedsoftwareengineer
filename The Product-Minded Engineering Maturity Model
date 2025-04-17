@@ -1,0 +1,161 @@
+# The Product-Minded Engineering Maturity Model  
+**From Task Takers to Outcome-Driven Builders**
+
+> “The most impactful engineers don’t just write code. They design value.”
+
+---
+
+## Why Product Thinking in Engineering Matters
+
+In many engineering cultures, the ideal developer is a brilliant builder—efficient, clever, and highly productive. But in modern product teams, this isn’t enough. Companies succeed not by building more features, but by solving the *right* problems at the right time for the right users.
+
+This shift demands a new archetype: the **Product-Minded Engineer**.
+
+These are engineers who:
+
+- Think about *why* a feature exists, not just how it’s built
+- Translate vague product ideas into concrete technical strategies
+- Push back on poorly defined requirements
+- Suggest simpler or more impactful alternatives
+- Care about adoption, usability, and outcomes—not just delivery
+
+But how do you know where you or your team stands? And how do you grow that product muscle?
+
+That’s where the **Product-Minded Engineering Maturity Model** comes in.
+
+---
+
+## Maturity Levels
+
+| Level | Name                       | Description                                                                 |
+|-------|----------------------------|-----------------------------------------------------------------------------|
+| 1     | Feature Follower           | Executes tickets without product context.                                  |
+| 2     | Context-Aware Developer    | Understands *why*, but still task-focused.                                 |
+| 3     | Collaborative Contributor  | Suggests improvements and collaborates across roles.                       |
+| 4     | Strategic Engineer         | Optimizes for value and tradeoffs. Thinks beyond the sprint.               |
+| 5     | Product Champion           | Acts like a co-owner, shapes product direction and vision.                 |
+
+---
+
+## 🔍 Deep Dive into Each Level
+
+### Level 1: Feature Follower  
+*"Just tell me what to build."*
+
+- **Mindset**: Sees work as a series of technical tasks
+- **Behaviors**:
+  - Waits for full specs
+  - Doesn’t ask about user needs
+- **Risks**:
+  - Builds low-value features perfectly
+- **Growth**:
+  - Ask them to describe feature purpose and value
+
+---
+
+### Level 2: Context-Aware Developer  
+*"I want to know why we’re building this."*
+
+- **Mindset**: Curious about value, but not proactive
+- **Behaviors**:
+  - Asks clarifying questions
+  - Understands basic product goals
+- **Growth**:
+  - Involve in test reviews, share KPIs during grooming
+
+---
+
+### Level 3: Collaborative Contributor  
+*"Have we considered doing this differently?"*
+
+- **Mindset**: Product-aware and engaged
+- **Behaviors**:
+  - Suggests simpler or better alternatives
+  - Challenges assumptions respectfully
+- **Growth**:
+  - Include in discovery, assign full feature ownership
+
+---
+
+### Level 4: Strategic Engineer  
+*"Let’s design for impact, not just implementation."*
+
+- **Mindset**: Thinks in outcomes and trade-offs
+- **Behaviors**:
+  - Influences roadmap decisions
+  - Prioritizes by value and complexity
+- **Growth**:
+  - Let them lead OKR-aligned projects
+
+---
+
+### Level 5: Product Champion  
+*"This is our product. I’ll help shape where it’s going."*
+
+- **Mindset**: Product thinker with engineering superpowers
+- **Behaviors**:
+  - Proposes features, flags market opportunities
+  - Mentors others on product thinking
+- **Growth**:
+  - Empower with roadmap ownership or user interviews
+
+---
+
+## Comparison Table
+
+| Trait / Action                          | L1 | L2 | L3 | L4 | L5 |
+|----------------------------------------|----|---- |----|----|----|
+| Understands user goals/KPIs            | ❌ | ✅  | ✅ | ✅✅ | ✅✅✅ |
+| Suggests scope changes or improvements | ❌ | ⚠️  | ✅ | ✅✅ | ✅✅✅ |
+| Participates in product discovery      | ❌ | ❌ | ⚠️  | ✅ | ✅✅ |
+| Owns product experiments               | ❌ | ❌ | ⚠️  | ✅ | ✅✅ |
+| Mentors others on product mindset      | ❌ | ❌ | ❌ | ⚠️  | ✅✅✅ |
+
+---
+
+## 🛠️ How to Use This Model
+
+### For Individuals:
+- Use it for growth discussions in 1:1s
+- Reflect weekly: *"Am I working like an L3 or aiming for L4?"*
+
+### For Tech Leads:
+- Align growth paths to levels
+- Celebrate product-oriented thinking in sprint reviews
+
+### For PMs:
+- Share it to create cross-functional alignment
+- Involve engineers earlier in product discovery
+
+---
+
+## Rituals That Support Growth
+
+| Practice                  | Description                                                                 |
+|---------------------------|-----------------------------------------------------------------------------|
+| Discovery Fridays       | Engineers join research, UX or customer calls regularly                    |
+| Sprint Impact Notes     | Developers describe how their feature creates user/business value          |
+| Feature Ownership       | Rotate full ownership across engineers                                     |
+| Outcome-Based Standups | Start standups with problems we're solving, not just tickets in progress   |
+
+---
+
+## Suggested Reading
+
+- *Inspired* – Marty Cagan  
+- *Shape Up* – Basecamp  
+- *Continuous Discovery Habits* – Teresa Torres  
+- *The Staff Engineer’s Path* – Tanya Reilly  
+- *Good Strategy / Bad Strategy* – Richard Rumelt  
+
+---
+
+## Final Word
+
+Being a great engineer in 2025 isn’t just about solving hard problems—it’s about solving the *right* problems, in the *simplest* way, at the *right* time.
+
+This model is a compass to build engineers who think like PMs, without ever needing to *be* one.
+
+> Let’s stop being task takers.  
+> Let’s build with purpose.
+ 
